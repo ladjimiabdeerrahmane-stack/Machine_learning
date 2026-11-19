@@ -18,8 +18,8 @@ Students and beginners who want to understand machine learning without complicat
 
 ### 2. Machine Learning
 - **Supervised learning**
-  - Linear Regression 
-  - Logistic Regression (in progress)
+  - Linear Regression ✅
+  - Logistic Regression ✅
   - KNN (in progress)
   - Decision Trees & Random Forest (in progress)
   - SVM (in progress)
