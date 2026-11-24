@@ -1,0 +1,7 @@
+Practical workflow for a stranger's dataset:                                                                               
+ 1. Inspect: shape, dtypes, missing values, target balance.                                                                 
+ 2. Identify the task: regression, binary, multiclass, or clustering.                                                       
+ 3. Split, then build a trivial baseline (majority class / mean) so you know what "good" means.                             
+ 4. Pick an algorithm from the table based on data shape and the question asked, start simple.                              
+ 5. Evaluate with the metric that matches the class balance; inspect the confusion matrix.                                  
+ 6. Only then tune hyperparameters, and only against a validation set. 
