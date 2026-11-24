@@ -21,7 +21,8 @@ Students and beginners who want to understand machine learning without complicat
   - Linear Regression ✅
   - Logistic Regression ✅
   - KNN ✅
-  - Decision Trees & Random Forest (in progress)
+  - Decision Trees ✅
+  - Random Forest (in progress)
   - SVM (in progress)
 - **Unsupervised learning**
   - K-Means (in progress)
